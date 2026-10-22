@@ -1,0 +1,4 @@
+shipment_id,order_id,carrier,tracking_number,shipment_status,shipped_at,delivered_at
+1,1,Demo Express,DEMO-TRACK-0001,delivered,2026-10-11T08:00:00+05:30,2026-10-12T17:00:00+05:30
+2,2,Demo Express,DEMO-TRACK-0002,pending,,
+3,4,Parcel Demo,DEMO-TRACK-0003,shipped,2026-10-22T09:00:00+05:30,

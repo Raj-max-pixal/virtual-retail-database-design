@@ -1,0 +1,5 @@
+category_id,category_name,description,parent_category_id
+1,Electronics,Consumer electronics and accessories,
+2,Home,Home and kitchen products,
+3,Books,Printed and digital books,
+4,Accessories,Small device accessories,1

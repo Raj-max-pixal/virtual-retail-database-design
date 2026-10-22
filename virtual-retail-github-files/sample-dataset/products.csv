@@ -1,0 +1,7 @@
+product_id,sku,product_name,category_id,unit_price,currency_code,is_active
+1,ELEC-001,Wireless Mouse,1,799.00,INR,True
+2,ELEC-002,USB-C Charger,1,1299.00,INR,True
+3,HOME-001,Insulated Bottle,2,499.00,INR,True
+4,BOOK-001,SQL Fundamentals,3,650.00,INR,True
+5,ACC-001,Laptop Sleeve,4,899.00,INR,True
+6,ELEC-003,Bluetooth Speaker,1,2199.00,INR,True
