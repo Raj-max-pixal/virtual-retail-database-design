@@ -1,0 +1,6 @@
+source_order_id,order_number,source_customer_id,order_status,order_date,subtotal,discount_amount,tax_amount,shipping_amount,total_amount,currency_code
+O001,VR-ETL-0001,C001,Delivered,2026-10-20T12:10:00+05:30,1598.00,0.00,79.90,40.00,1717.90,INR
+O002,VR-ETL-0002,C002,Processing,2026-10-21T16:30:00+05:30,1299.00,100.00,59.95,40.00,1298.95,INR
+O003,VR-ETL-0003,C003,Pending,2026-10-22T10:00:00+05:30,650.00,0.00,32.50,0.00,682.50,INR
+O004,VR-ETL-0004,C999,Shipped,2026-10-22T13:25:00+05:30,899.00,0.00,44.95,40.00,983.95,INR
+O005,VR-ETL-0005,C001,UnknownStatus,499.00,0.00,24.95,0.00,523.95,INR

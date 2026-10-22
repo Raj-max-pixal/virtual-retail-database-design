@@ -1,0 +1,6 @@
+source_customer_id,first_name,last_name,email,phone,city,state,country_code,updated_at
+C001,Aarav,Sharma, AARAV.SHARMA@example.com ,+91-9000000001,Chennai,Tamil Nadu,IN,2026-10-20T10:15:00+05:30
+C002,Diya,Iyer,diya.iyer@example.com,+91-9000000002,Coimbatore,Tamil Nadu,IN,2026-10-20T11:00:00+05:30
+C003,Kabir,Nair,kabir.nair@example.com,+91-9000000003,Kochi,Kerala,IN,2026-10-21T09:20:00+05:30
+C002,Diya,Iyer,diya.iyer@example.com,+91-9000000002,Coimbatore,Tamil Nadu,IN,2026-10-21T10:00:00+05:30
+C004,Meera,Rao,,+91-9000000004,Bengaluru,Karnataka,IN,2026-10-21T12:10:00+05:30
