@@ -1,0 +1,6 @@
+payment_id,order_id,payment_reference,payment_method,payment_status,amount,currency_code,paid_at
+1,1,PAY-DEMO-0001,upi,captured,1717.90,INR,2026-10-10T12:12:00+05:30
+2,2,PAY-DEMO-0002,card,authorized,1298.95,INR,
+3,3,PAY-DEMO-0003,cash_on_delivery,initiated,682.50,INR,
+4,4,PAY-DEMO-0004,netbanking,captured,931.45,INR,2026-10-21T13:27:00+05:30
+5,5,PAY-DEMO-0005,upi,failed,523.95,INR,

@@ -1,0 +1,6 @@
+order_item_id,order_id,product_id,sku_snapshot,product_name_snapshot,quantity,unit_price,discount_amount,line_total
+1,1,1,ELEC-001,Wireless Mouse,2,799.00,0.00,1598.00
+2,2,2,ELEC-002,USB-C Charger,1,1299.00,100.00,1199.00
+3,3,4,BOOK-001,SQL Fundamentals,1,650.00,0.00,650.00
+4,4,5,ACC-001,Laptop Sleeve,1,899.00,50.00,849.00
+5,5,3,HOME-001,Insulated Bottle,1,499.00,0.00,499.00

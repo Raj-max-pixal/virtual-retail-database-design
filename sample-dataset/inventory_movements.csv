@@ -1,0 +1,8 @@
+movement_id,product_id,movement_type,quantity_change,reference_type,reference_id,note,created_at
+1,1,receipt,42,purchase_order,1001,Opening stock receipt,2026-10-01T08:00:00+05:30
+2,1,sale,-2,order,1,Two wireless mice sold,2026-10-10T12:10:00+05:30
+3,2,receipt,25,purchase_order,1002,Opening stock receipt,2026-10-02T08:00:00+05:30
+4,3,receipt,60,purchase_order,1003,Opening stock receipt,2026-10-03T08:00:00+05:30
+5,4,receipt,19,purchase_order,1004,Opening stock receipt,2026-10-04T08:00:00+05:30
+6,4,sale,-1,order,3,One book sold,2026-10-20T10:00:00+05:30
+7,5,adjustment,-2,stock_check,5001,Damaged units removed,2026-10-21T17:30:00+05:30
