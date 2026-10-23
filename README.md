@@ -151,6 +151,9 @@ The `tests/` directory contains validation queries and optional constraint tests
 
 This is an educational and portfolio project. All sample customer records are fictional. The database design is a development baseline and should undergo additional security, performance, and transactional testing before production use.
 
+## 💼 Internship Context
+This project was developed as part of the **SQL Developer Internship** at [YuvaIntern](https://yuvaintern.com/my-internship/478471) based in Nagpur.
+
 ## 👨‍💻 Author
 
 **Raj**
